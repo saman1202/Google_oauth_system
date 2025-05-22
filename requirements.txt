@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+sqlalchemy
+python-dotenv
+passlib
+fastapi-mail
+jinja2
+httpx
+google-auth
+google-auth-oauthlib
+python-jose
+itsdangerous
+python-multipart
